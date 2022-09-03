@@ -5,7 +5,7 @@
 
 ![anapaula-carmelita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=synthwave&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-carmelita&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-carmelita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 anapaula-carmelita/anapaula-carmelita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
