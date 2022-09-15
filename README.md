@@ -7,7 +7,11 @@
 - 🌱 I’m currently learning at CS50, Univesp and Coursera.
 - 📫 How to reach me [![Ask-me anything else](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anapaula-carmelita/anapaula-carmelita/issues/new)
 
-![anapaula-carmelita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=synthwave&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-carmelita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-carmelita&theme=synthwave&count_private=true)
+
+![anapaula-carmelita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=synthwave&count_private=true)
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
